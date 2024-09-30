@@ -7,12 +7,12 @@
 ---
 
 ###### :book: about me
-- �� learning
-- �� gaming
-- �� video editing
-- �� audio editing
+- 🖥️ learning
+- 🎮 gaming
+- 🎞️ video editing
+- 🎹 audio editing
 - ⛷️ skiing
-- �� eating
+- 🌮 eating
 - ✈️ travelling
 
 ---
