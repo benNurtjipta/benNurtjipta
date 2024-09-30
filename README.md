@@ -6,7 +6,7 @@
 
 ---
 
-###### :book: about me
+###### :book: that's me
 - 🖥️ learning
 - 🎮 gaming
 - 🎞️ video editing
