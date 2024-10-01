@@ -14,8 +14,8 @@ I have been working as a video editor and technical
 supervisor for 15 years and i am now starting a new
 career in web development.
 
-Since Sept 24 i am studying at DigitalCareerInstitute
-to learn the basics of coding and starting my first own project.
+Since Sept_24 i am studying at DigitalCareerInstitute
+to learn coding and starting my first projects.
 
 I grew up with [C64 - Atari ST - Amiga 500 - MS-DOS] 
 and had my first coding experiences with Basic & C.
