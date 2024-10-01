@@ -15,10 +15,11 @@ supervisor for 15 years and i am now starting a new
 career in web development.
 
 Since Sept_24 i am studying at DigitalCareerInstitute
-to learn coding and starting my first projects.
+to learn coding and to start my first projects.
 
 I grew up with [C64 - Atari ST - Amiga 500 - MS-DOS] 
 and had my first coding experiences with Basic & C.
+
 ```
 ---
 
