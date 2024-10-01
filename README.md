@@ -9,6 +9,15 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript3&logo-Color=black&style=for-the-badge)
 
 ---
+```
+I have been working as a video editor and technical supervisor for 15 years
+and i am now starting a new career in web development.
+
+Since Sept 24 i am studying at DigitalCareerInstitute to learn the basics of coding and starting my first own project.
+
+I grew up with [C64 - Atari ST - Amiga 500 - MS-DOS] and had my first coding experience with Basic & C
+```
+---
 
 ###### :book: about me:
 - 🖥️ learning
@@ -20,6 +29,7 @@
 - ✈️ travelling
 
 ---
+
 
 [freecodecamp Profile](https://www.freecodecamp.org/benNurtjipta)
 
