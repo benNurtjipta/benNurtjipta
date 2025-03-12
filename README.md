@@ -40,8 +40,6 @@ and had my first coding experiences with Basic & C.
 ---
 
 
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true&quote=Work,%20work,%20work,%20work,%20work,%20work...&author=Rihanna)](https://github.com/piyushsuthar/github-readme-quotes)
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=benNurtjipta&theme=highcontrast)
 
