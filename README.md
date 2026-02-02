@@ -2,7 +2,7 @@
 ## My name is:  
 💾`Ben Nurtjipta`
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1B607E&width=435&lines=web+developer+in+training!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1B607E&width=435&lines=web+developer)](https://git.io/typing-svg)
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
@@ -24,14 +24,7 @@
 ---
 ```
 I have been working as a video editor and technical
-supervisor for 15 years and i am now starting a new
-career in web development.
-
-Since Sept_24 i am studying at DigitalCareerInstitute
-to learn coding and to start my first projects.
-
-I grew up with [C64 - Atari ST - Amiga 500 - MS-DOS] 
-and had my first coding experiences with Basic & C.
+supervisor for 15 years. Now I code. Sometimes 
 
 ```
 ---
